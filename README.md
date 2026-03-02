@@ -1,2 +1,2 @@
-# nvxlanding
-Nvxstore landing page
+# nvxstore-landing
+Nvxstore Landing Page
